@@ -1,5 +1,5 @@
-#MIEEC-SIBD
-#Gym management data base system
+MIEEC-SIBD
+Gym management data base system
 
 Daniela Filipa Oliveira Faria up201604500
 
