@@ -1,0 +1,39 @@
+table {
+  width: 1050px;
+}
+
+th, td, caption {
+  text-align: center;
+  padding: 7px;
+}
+
+table, th, td {
+  border: 1.7px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: deepskyblue;
+  color: white;
+}
+
+td {
+  background-color: white;
+  color:black;
+}
+
+h1 {
+  margin: 10px;
+  transform: translate(39.5%, 215%);
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  color: white;
+}
+
+.border {
+  width: 130px;
+  height: 3px;
+  background: deepskyblue;
+  margin: 6.9% 0 -7% 45%;
+}

@@ -1,0 +1,41 @@
+
+.button_join1{
+  position: absolute;
+  top: 33%;
+  left: 33%;
+  transform: translate(-50%,-50%);
+  
+}
+.button_join2{
+    position: absolute;
+    top: 33%;
+    left: 66%;
+    transform: translate(-50%,-50%);
+  }
+  .button_join3{
+    position: absolute;
+    top: 66%;
+    left: 33%;
+    transform: translate(-50%,-50%);
+  }
+  .button_join4{
+    position: absolute;
+    top: 66%;
+    left: 66%;
+    transform: translate(-50%,-50%);
+  }
+
+.btn {
+    border: 2px solid deepskyblue;
+    padding: 20px 60px;
+    color: deepskyblue;
+    text-decoration: none;
+    transition: 0.6s ease;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+.btn:hover {
+    background-color: deepskyblue;
+    color: white;
+  }
+  

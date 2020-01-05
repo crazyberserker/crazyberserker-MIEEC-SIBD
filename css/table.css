@@ -1,0 +1,90 @@
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: deepskyblue;
+  font-size: 26px;  
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 35%;
+  margin-right: 35%;
+  border: 1px solid deepskyblue;
+  padding: 1%;
+ }
+
+table{
+  display: flex;
+  flex-wrap: wrap;
+ justify-content: center;
+  background-color: white;
+  opacity: 0.90;
+  margin-left: 7%;
+  box-shadow: 0 0 20px 0 deepskyblue;
+  border-radius: 2%;
+  width: 170px;
+  width:40%;
+  height:40%;
+
+
+}
+#row2{
+  border-top: 0px solid deepskyblue;4
+}
+tbody{
+
+  margin-bottom: 5%;
+  padding-bottom: 1%;
+}
+#row1{
+  background-color: deepskyblue;
+  color: white;
+}
+ 
+th{
+  line-height: 1.7;
+  padding: 1%;
+  border-top: 2px solid deepskyblue;
+
+}
+
+tr{
+  line-height: 1.7;
+  border: 2px solid deepskyblue;
+}
+#ult{
+  border-bottom: 2px solid deepskyblue;4
+  padding-bottom:2%;
+}
+.button_join1{
+  position: absolute;
+  top: 45%;
+  left: 75%;
+  transform: translate(-50%,-50%);
+  
+}
+.button_join2{
+    position: absolute;
+    top: 60%;
+    left: 75%;
+    transform: translate(-50%,-50%);
+  }
+  .button_join3{
+    position: absolute;
+    top: 75%;
+    left: 75%;
+    transform: translate(-50%,-50%);
+  }
+
+.btn {
+    border: 2px solid deepskyblue;
+    padding: 20px 60px;
+    color: deepskyblue;
+    text-decoration: none;
+    transition: 0.6s ease;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+.btn:hover {
+    background-color: deepskyblue;
+    color: white;
+  }
+  
